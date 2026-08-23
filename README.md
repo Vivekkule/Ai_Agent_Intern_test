@@ -12,7 +12,7 @@ The primary focus of the project is **reliability**: the agent should use author
 
 ### Application Demo
 
-<video src="demo/demo.mp4" controls width="900"></video>
+<video src="demo/Project Demo latest" controls width="900"></video>
 
 The demo shows:
 
