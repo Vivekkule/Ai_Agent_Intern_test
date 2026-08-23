@@ -25,7 +25,7 @@ The demo shows:
 - Local Llama 3.1 inference through Ollama
 - Customer-facing Streamlit interface
 
-> If GitHub does not render the video inline, open `demo/demo.mp4` directly from the repository.
+> If GitHub does not render the video inline, open `demo/Project Demo latest.mp4` directly from the repository.
 
 ---
 
