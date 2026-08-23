@@ -112,7 +112,7 @@ Retrieved text is never treated as an instruction.
 
 # 3. Architecture
 
-```text
+```
                          User
                            |
                            v
